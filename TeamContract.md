@@ -19,13 +19,6 @@ This contract sets out shared expectations and commitments for how our team will
 
 ---
 
-### [Other Categories of norms and expectations go here]
-
-* Based on your previous teamwork experiences, what other behaviours do you agree upon as a team?
-    - some examples of possible additional team norms and expectations are included in the sample team contract in case your team needs some help getting ideas for what else you want to include.
-
----
-
 ## Decision Making
 
 * How will decisions about your team project be made? By majority vote
