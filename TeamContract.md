@@ -60,3 +60,5 @@ Team Member Signatures:
 
 Nuerlan · Muheyati, Harris Tang
 
+Stefan Elias Davidsson Berman
+
