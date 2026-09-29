@@ -60,4 +60,5 @@ Team Member Signatures:
 
 Nuerlan · Muheyati
 Gil · Shamir
-
+Stefan Elias Davidsson Berman
+Harris Tang
